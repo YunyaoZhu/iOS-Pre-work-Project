@@ -6,7 +6,7 @@
 This is a "Hello World", single-view app built with Xcode. It contains a text field, a label, three buttons and additional views. The buttons are labeled with their respectively functions. Addtionally, the user can tap the main view to revert back to orginal setup and input text to the text field to change the text displayed in the label.
 
 ### App Walk-though
-<img src="https://recordit.co/VcY0fcoUzi" width=200><br>
+<img src="http://g.recordit.co/dSdwzIujpm.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
